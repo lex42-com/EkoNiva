@@ -1,0 +1,52 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# VS Code settings
+
+.vscode/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# Environment variables
+
+.env
+
+# Build / dist folders
+
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Data files (CSV, Excel)
+
+*.csv
+*.xlsx
+*.xls
+*.ods
+*.tsv
+*.data
+*.dat
+*.hdf5
+*.h5
+*.jsonl
+*.json  # если есть большие датасеты в JSON
