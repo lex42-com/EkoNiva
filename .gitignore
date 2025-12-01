@@ -50,5 +50,7 @@ dist/
 *.h5
 *.jsonl
 *.json  # если есть большие датасеты в JSON
-
+*.pkl
+*.png
 *.pdf
+*.xlsx#
