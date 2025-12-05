@@ -38,7 +38,7 @@ dist/
 .ipynb_checkpoints/
 
 # Data files (CSV, Excel)
-
+*.rar
 *.csv
 *.xlsx
 *.xls
